@@ -1,5 +1,6 @@
 node_modules/
 deployed/
+deployments/
 build/
 *.pp.ligo
 package-lock.json
